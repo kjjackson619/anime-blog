@@ -1,0 +1,20 @@
+header {
+    background-image: url("https://animemastersub.files.wordpress.com/2014/02/cropped-anime-mix-hd-wallpaper1.jpg");
+    height: 500px;
+}
+
+header nav ul li a {
+    position: sticky;
+    top: 0%;
+}
+
+header nav ul li {
+    padding: 5px;
+    display: inline;
+
+}
+
+footer {
+    position: fixed;
+    bottom: 0%;
+}
